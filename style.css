@@ -6,11 +6,15 @@
 html{
     font-size: 10px;
     font-family: 'Montserrat', sans-serif;
+    background-color: lightblue;
     
 }
 a{
     text-decoration: none;
     
+}
+body {
+    background-color: lightblue !important;
 }
 /* Navbar */
 .navv{
